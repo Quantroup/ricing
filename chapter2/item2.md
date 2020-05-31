@@ -1,10 +1,11 @@
-# Item2: window managers
+Item2: window managers
+----------------------
 
-# Baby's first rice
+In this section, we will discuss what window manager to use.
 
-In this section we will learn how to create something new.
+# Baby's first window manager
 
-As briefly explained in chapter 1, we first need to know what window manager(wm) we are going to use.
+As briefly explained in chapter 1, we need to know what window manager(wm) we are going to use.
 There are plenty of options, and we will try to list each one of them in a simple, understandable manner.
 
 But first, we need to talk what is a floating/tiling/dynamic window manager.
