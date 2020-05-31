@@ -71,16 +71,8 @@ want to contribute. Also, do it with love. That's important. Love.
 
 ## Donating
 
-I hadn't thought of profiting from it, but someone asked me if there
-was any way people could donate if they wanted to. So if you're feeling
-quite kind today, you may donate to this bitcoin wallet:
-
-131pw3Pr8pkWxr8vxEEuAhHqfiLM9QnrVE
-
-I'd be grateful.
-
-Oh, and if you feel like helping me on writing content to this
-book, just send me a PR, or send me an email, or whatever.
+This is a fork.
+Please see https://github.com/feroldi/ricing for donating.
 
 ## License
 
