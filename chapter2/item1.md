@@ -8,6 +8,11 @@ how to exactly replicate them.
 But first let's go over where we can find inspiration for what we could
 possibly create, as with any kind of creative endeavour.
 
-*This item covers places and sources that can be useful to put a rice together aka where are good places to get inspiration*
+# Insparation sources
 
-TODO
+inspiration comes in many forms. Here listed ,but not limited, sources of insparation are;
+* [Reddit](https://reddit.com/r/unixporn)
+* Your favorite show/anime/comic etc.
+* Music
+* Nature
+* And more!
