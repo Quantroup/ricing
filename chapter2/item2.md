@@ -1,16 +1,17 @@
-Item2: window managers
-----------------------
+# Item2: window managers
 
-In this section, we will discuss what window manager to use.
+_In this section, we will discuss what window manager to use._
 
-# Baby's first window manager
+Baby's first window manager
+---------------------------
 
 As briefly explained in chapter 1, we need to know what window manager(wm) we are going to use.
 There are plenty of options, and we will try to list each one of them in a simple, understandable manner.
 
 But first, we need to talk what is a floating/tiling/dynamic window manager.
 
-# Types of window managers
+Types of window managers
+------------------------
 
 Now you're telling me there are "types" of window managers, what's the fuss anyway?
 
@@ -37,7 +38,8 @@ This means you can possibly have a desktop where you can have floating windows w
 awesome, dwm and Xmonad are great examples.
 
 
-# Common window managers
+Common window managers
+----------------------
 
 * [i3](#i3)
 * [awesomeWM](#awesomeWM)
