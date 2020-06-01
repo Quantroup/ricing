@@ -56,6 +56,8 @@ i3 is tiling window manager written in C. It supports tiling, stacking, and tabb
 
 The configuration is done through plain text files.
 
+By default it comes only with a simple bar (i3bar)
+
 Bellow, there are the pros and cons of this window manager.
 
 - PROS
@@ -72,19 +74,45 @@ AwesomeWM
 
 AwesomeWM (or awesome) is a dynamic tiling window manager written in C and Lua. Lua is also used for configuring and extending the window manager. 
 
-The configuration is done through rc.lua 
+The configuration is done through rc.lua
+
+By default it comes with a bar, wallpaper setting ultility (present in rc.lua) and a application menu
 
 Bellow, there are the pros and cons of this window manager.
 
 - PROS
- - high DPI support
- - mouse and keyboard support (manage windows with mouse and keyboard)
- - Tags instead of workspaces (you can manage windows on a grouping basis, showing multiple tags at once)
- - Configuration in lua
- - OK default config
+  - high DPI support
+  - mouse and keyboard support (manage windows with mouse and keyboard)
+  - Tags instead of workspaces (you can manage windows on a grouping basis, showing multiple tags at once)
+  - Configuration in lua
+  - OK default config
 - CONS
- - Difficult to google for questions (name too common)
- - Messy config file
- - Configuration in lua
+  - Difficult to google for questions (name too common)
+  - Messy config file
+  - Configuration in lua
+ 
+ 
+ openbox
+ -------
+ 
+ openbox is a floating window manager written in C. 
+ 
+ The configuration is done through 2 config files (rc.xml and menu.xml) or a GUI (obconf)
+ 
+ by default it comes with no bar, leaving you with only window decorations and a application menu.
+ 
+ Bellow, there are the pros and cons of this window manager
+ 
+ - PROS
+   - Highly configurable with a moderate learning curve
+   - Lightweight
+ - CONS
+   - Default configuration lacks basic features
+   
+Xmonad
+------
+
+xmonad is a dynamic window manager written in Haskell. Haskell is also used to configure the window manager
+
  
 # TODO #
