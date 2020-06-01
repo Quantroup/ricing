@@ -8,7 +8,8 @@ how to exactly replicate them.
 But first let's go over where we can find inspiration for what we could
 possibly create, as with any kind of creative endeavour.
 
-# Insparation sources
+Insparation sources
+-------------------
 
 inspiration comes in many forms. Here listed ,but not limited, sources of insparation are;
 * [Reddit](https://reddit.com/r/unixporn)
